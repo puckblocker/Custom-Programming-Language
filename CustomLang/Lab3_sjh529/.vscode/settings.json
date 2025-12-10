@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "xstring": "cpp",
+        "memory": "cpp",
+        "iosfwd": "cpp",
+        "type_traits": "cpp",
+        "xtree": "cpp",
+        "variant": "cpp"
+    }
+}
